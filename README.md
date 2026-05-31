@@ -2,7 +2,9 @@
 
 杭州某校园门锁 iOS 客户端（SwiftUI + CoreBluetooth）。
 
-本项目用于复刻 Android 版本的核心能力：
+参考：[安卓版本](https://github.com/Loanio/HZCU-AndroidBLEKey/issues)
+
+本项目复刻了安卓版本的核心能力：
 - 一键开锁
 - 离线 BLE 开锁
 - 自动关锁
